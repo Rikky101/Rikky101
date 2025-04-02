@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**Rikky101/Rikky101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Arike 👋
 
-Here are some ideas to get you started:
+💊 Pharmacy student with tech skills  
+💻 Data Analyst | Health Tech Enthusiast  
+🚀 Passionate about driving strategic decision-making and solutions, and community impact 
+Cleaning, transforming, and visualizing data for impactful insights or anything at all? Then, my analytical and creativity skills will provide clarity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Skills
+- Data Cleaning, Transformation, and Visualization
+- Dashboard Creation
+- Teamwork & Research
+
+## 🏆 Achievements
+- [Certificate of Data Analysis]
+
+## ⚡ Fun fact:
+- I love reading, sleeping and movies
+- Life has thrown challenges my way, but I've learned to turn every setback into a comeback!
+  
+## 📫 How to reach me
+- Email: rikkybee10@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/balogunrike)

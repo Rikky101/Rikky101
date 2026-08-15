@@ -26,4 +26,4 @@
   
 ## 📫 How to reach me
 - Email: balogunaryke@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/balogunrike)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/balogunrike)

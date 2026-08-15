@@ -2,8 +2,8 @@
 
 💊 Pharmacy student with tech skills  
 💻 Data Analyst | Health Tech Enthusiast  
-🚀 Passionate about driving strategic decision-making and solutions, and community     impact 
-                                                                                                                                                                           📊 I enjoy cleaning, transforming, and visualizing data for impactful insights or anything  
+🚀 Passionate about driving strategic decision-making and solutions, and community impact                                                                                     
+📊 Enjoy cleaning, transforming, analyzing, and visualizing data to uncover insights and turn complex information into clear, actionable solutions                                                                                                                                                                            
 💡 Whether it's exploring data, solving a problem, or building something meaningful, I bring together my analytical, creative, and healthcare perspectives to create clarity and impact. 
 
 ## 📚 Skills
